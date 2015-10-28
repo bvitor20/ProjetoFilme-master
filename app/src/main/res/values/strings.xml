@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projeto Filme</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_filme_delatlhe">Detalhes - Filme</string>
+    <string name="acao_pesquisar">Pesquisar</string>
+    <string name="acao_favorito">Favorito</string>
+    <string name="msg_sem_conexao">Sem Conexão de Dados!</string>
+</resources>

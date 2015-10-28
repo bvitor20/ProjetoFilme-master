@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.brunovitor.projetoFilme.FilmeDelatlheActivity">
+
+    <item   android:id="@+id/action_settings"
+            android:title="@string/action_settings"
+            android:orderInCategory="100" app:showAsAction="never" />
+
+    <item
+        android:id="@+id/acao_favorito"
+        android:title="@string/acao_favorito"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:orderInCategory="100" app:showAsAction="always"/>
+
+</menu>
